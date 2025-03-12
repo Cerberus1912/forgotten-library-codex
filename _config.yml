@@ -6,4 +6,4 @@ markdown: kramdown
 collections:
   pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: /forgotten-library-codex/:path/
