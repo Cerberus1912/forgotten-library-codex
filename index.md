@@ -7,7 +7,7 @@ title: The Forgotten Library Codex
 
 Welcome to the codex of the Forgotten Library. Select a character to learn more.
 
-- [Cheshire Wanderer](characters/Cheshire.md)
+- [Cheshire Wanderer](_pages/Cheshire.md)
 - [Traveller Nautilus](characters/Nautilus.md)
 - [Pusuer Apophis](characters/Apophis.md)
 - [Observer Dorian](characters/Dorian.md)
