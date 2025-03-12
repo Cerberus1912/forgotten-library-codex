@@ -1,6 +1,6 @@
 title: Forgotten Library Codex
 description: An interactive codex for the Forgotten Library.
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 markdown: kramdown
 
 collections:
