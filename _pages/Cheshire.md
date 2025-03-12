@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cheshire
-permalink: /characters/Cheshire/
+permalink: /Cheshire/
 ---
 
 # 🦴 Cheshire – The Stalker of Arcadia
