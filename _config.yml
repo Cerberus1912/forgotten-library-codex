@@ -2,3 +2,7 @@ title: Forgotten Library Codex
 description: An interactive codex for the Forgotten Library.
 theme: minima
 markdown: kramdown
+collections:
+  pages:
+    output: true
+    permalink: /:path/
