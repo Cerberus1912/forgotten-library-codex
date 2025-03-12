@@ -8,9 +8,9 @@ title: The Forgotten Library Codex
 Welcome to the codex of the Forgotten Library. Select a character to learn more.
 
 - [Cheshire Wanderer](/_pages/cheshire.md/)
-- [Traveller Nautilus](/forgotten-library-codex/nautilus/)
-- [Pusuer Apophis](/forgotten-library-codex/apophis/)
-- [Observer Dorian](/forgotten-library-codex/dorian/)
-- [Scribe Orpheus](/forgotten-library-codex/orpheus/)
-- [Dreamer Hypnos](/forgotten-library-codex/hypnos/)
-- [Scholar Mnemosyne](/forgotten-library-codex/mnemosyne/)
+- [Traveller Nautilus](/_pages/nautilus.md/)
+- [Pusuer Apophis](/_pages/apophis.md/)
+- [Observer Dorian](/_pages/dorian.md/)
+- [Scribe Orpheus](/_pages/orpheus.md/)
+- [Dreamer Hypnos](/_pages/hypnos.md/)
+- [Scholar Mnemosyne](/_pages/mnemosyne.md/)
