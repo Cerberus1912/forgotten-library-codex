@@ -32,7 +32,3 @@ Cheshire, once a feared figure in Arcadia, was known for his dark and cryptic wa
 - **The Carrion Gravekeepers**: A society known for its connection to death, ritualistic practices, and its dubious history with cannibalism.
 
 ---
-
-### Quote
-
-> *"Some knowledge is better left buried."*
