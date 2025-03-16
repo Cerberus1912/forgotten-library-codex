@@ -1,0 +1,19 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Runs every Monday
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress "**/*.md"
