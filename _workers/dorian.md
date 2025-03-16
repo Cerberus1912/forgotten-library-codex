@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Observer Dorian – Master of Cognitive Reality
+layout: worker
+title: "Observer Dorian"
+codename: "Master of Cognitive Reality"
 permalink: /workers/dorian/
 ---
 
