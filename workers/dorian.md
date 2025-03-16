@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Observer Dorian – Master of Cognitive Reality
-permalink: /dorian/
+permalink: /workers/dorian/
 ---
 
 # 🖼️ Observer Dorian – Master of Cognitive Reality
