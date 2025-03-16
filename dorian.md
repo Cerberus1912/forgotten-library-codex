@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Observer Dorian – Master of Cognitive Reality
-permalink: /forgotten-library-codex/dorian/
+permalink: /dorian/
 ---
 
 # 🖼️ Observer Dorian – Master of Cognitive Reality
