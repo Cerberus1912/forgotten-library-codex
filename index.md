@@ -12,7 +12,7 @@ A collection of individuals who study, document, and protect the Library’s sec
 
 <ul>
   {% for worker in site.workers %}
-    <li><a href="{{ worker.url | relative_url }}">{{ worker.title }}</a></li>
+    <li><a href="{{ worker.url | relative_url }}">{{ worker.title }} – {{ worker.codename }}</a></li>
   {% endfor %}
 </ul>
 
