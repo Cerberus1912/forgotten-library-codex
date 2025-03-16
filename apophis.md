@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pursuer Apophis – Master of the Nyx
-permalink: /forgotten-library-codex/apophis/
+permalink: /apophis/
 ---
 
 # 🌑 Pursuer Apophis – Master of the Nyx
