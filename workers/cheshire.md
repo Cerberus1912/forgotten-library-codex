@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Cheshire
+layout: worker
+title: "Cheshire Wanderer"
+codename: "The Stalker of Arcadia"
 permalink: /workers/cheshire/
 ---
 
