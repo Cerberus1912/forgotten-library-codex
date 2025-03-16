@@ -3,19 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <title>{{ page.title }} - Forgotten Library Codex</title>
+    
+    <!-- Link to your custom terminal-style CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    <!-- Optional: Add a cool terminal font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="terminal">
         <header>
             <h1>FORGOTTEN LIBRARY CODEX</h1>
+            <p class="subtitle">Accessing Records...</p>
+            <hr>
         </header>
+
+        <nav>
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">[ Home ]</a></li>
+                <li><a href="{{ '/cheshire/' | relative_url }}">[ Cheshire ]</a></li>
+                <li><a href="{{ '/nautilus/' | relative_url }}">[ Traveller Nautilus ]</a></li>
+                <li><a href="{{ '/apophis/' | relative_url }}">[ Pursuer Apophis ]</a></li>
+                <li><a href="{{ '/orpheus/' | relative_url }}">[ Orpheus ]</a></li>
+            </ul>
+        </nav>
+
         <main>
             {{ content }}
         </main>
+
         <footer>
-            <p>Access granted to: {{ site.title }}</p>
+            <hr>
+            <p>FORGOTTEN LIBRARY SYSTEM v1.0 | STATUS: ONLINE</p>
         </footer>
     </div>
 </body>
