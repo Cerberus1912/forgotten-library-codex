@@ -1,6 +1,7 @@
 title: Forgotten Library Codex
 description: A classified archive for the Forgotten Library.
 markdown: kramdown
+baseurl: "/forgotten-library-codex"
 collections:
   workers:
     output: true
