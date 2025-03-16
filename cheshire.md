@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cheshire
-permalink: /forgotten-library-codex/cheshire/
+permalink: /cheshire/
 ---
 
 # 🦴 Cheshire – The Stalker of Arcadia
