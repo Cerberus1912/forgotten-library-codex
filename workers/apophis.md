@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pursuer Apophis – Master of the Nyx
-permalink: /apophis/
+permalink: /workers/apophis/
 ---
 
 # 🌑 Pursuer Apophis – Master of the Nyx
