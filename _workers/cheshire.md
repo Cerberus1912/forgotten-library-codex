@@ -2,7 +2,7 @@
 layout: worker
 title: "Cheshire Wanderer"
 codename: "The Stalker of Arcadia"
-permalink: "{{ site.baseurl }}/workers/cheshire/"
+permalink: /forgotten-library-codex/workers/cheshire/
 ---
 
 # 🦴 Cheshire – The Stalker of Arcadia
