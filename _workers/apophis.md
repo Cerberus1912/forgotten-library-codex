@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Pursuer Apophis – Master of the Nyx
-permalink: /forgotten-library-codex/workers/apophis/
+layout: worker
+title: "Pursuer Apophis"
+codename: "Master of the Nyx"
+permalink: /workers/apophis/
 ---
 
 # 🌑 Pursuer Apophis – Master of the Nyx
