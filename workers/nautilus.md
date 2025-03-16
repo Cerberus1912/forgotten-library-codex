@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Traveller Nautilus – The Deep Diver
-permalink: /nautilus/
+permalink: /workers/nautilus/
 ---
 
 # 🌊 Traveller Nautilus – The Deep Diver
