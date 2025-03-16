@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Traveller Nautilus – The Deep Diver
-permalink: /forgotten-library-codex/nautilus/
+permalink: /nautilus/
 ---
 
 # 🌊 Traveller Nautilus – The Deep Diver
