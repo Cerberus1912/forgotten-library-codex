@@ -4,4 +4,7 @@ markdown: kramdown
 collections:
   workers:
     output: true
-    permalink: /forgotten-library-codex/:path/
+    permalink: /workers/:path/
+  anomalies:
+    output: true
+    permalink: /anomalies/:path/
