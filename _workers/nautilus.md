@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Traveller Nautilus – The Deep Diver
+layout: worker
+title: "Traveller Nautilus"
+codename: "The Deep Diver"
 permalink: /workers/nautilus/
 ---
 
